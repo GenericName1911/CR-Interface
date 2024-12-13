@@ -1,7 +1,7 @@
 # CR-Interface
 
 This tool is a closed-source modding utility for Clash Royale, designed to simulate an interactive arena. It converts user-selected tiles into game coordinates, which are saved to a file named `coordinates.csv` and can be injected into the apk with [REDACTED] methods.
-This tool is distributed in the form of a .pyw file, which is a variant of python-executable files where the _console_ isn't visible.
+This tool is distributed in the form of [an executable file.](https://github.com/GenericName1911/CR-Interface/releases)
 
 Credits:
    - The name is a reference to the [TM-Interface tool by Donadigo](https://donadigo.com/tminterface/) which works the same way, and was the initial inspiration for my project.
