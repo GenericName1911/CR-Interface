@@ -5,12 +5,12 @@ This tool is distributed in the form of [an executable file.](https://github.com
 
 Credits:
    - The name is a reference to the [TM-Interface tool by Donadigo](https://donadigo.com/tminterface/) which works the same way, and was the initial inspiration for my project.
-   - Compiled using `pyinstaller`
+   - Compiled using `pyinstaller` and `UPX`
    - Thanks a lot to **Milo the great** for beta testing
 # Usage and Distribution Restrictions  
 
 1. **Non-Commercial Use Only**  
-   This software is provided solely for personal, non-commercial use. Any use of this tool for profit, business purposes, or integration into commercial products or services is strictly prohibited.  
+   - This software is provided solely for personal, non-commercial use. Any use of this tool for profit, business purposes, or integration into commercial products or services is strictly prohibited.  
 
 2. **Prohibited Actions**  
    - Unauthorized copying, distribution, modification, reverse engineering, decompilation, or any other form of tampering with this tool is prohibited.  
