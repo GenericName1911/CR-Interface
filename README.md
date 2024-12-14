@@ -6,7 +6,7 @@ This tool is distributed in the form of [an executable file.](https://github.com
 Credits:
    - The name is a reference to the [TM-Interface tool by Donadigo](https://donadigo.com/tminterface/) which works the same way, and was the initial inspiration for my project.
    - Compiled using `pyinstaller`
-   - Thanks a lot to **Milo the Great** for beta testing
+   - Thanks a lot to **Milo the great** for beta testing
 # Usage and Distribution Restrictions  
 
 1. **Non-Commercial Use Only**  
