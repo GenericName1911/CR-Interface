@@ -14,6 +14,7 @@ Credits:
 
 1. **Non-Commercial Use Only**  
    - This software is provided solely for personal, non-commercial use. Any use of this tool for profit, business purposes, or integration into commercial products or services is strictly prohibited.  
+   - This software is provided solely for personal, non-commercial use. Any use of this tool for profit, business purposes, or integration into commercial products or services is strictly prohibited.  
 
 2. **Prohibited Actions**  
    - Unauthorized copying, distribution, modification, reverse engineering, decompilation, or any other form of tampering with this tool is prohibited.  
