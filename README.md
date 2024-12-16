@@ -6,14 +6,13 @@ As of Monday, 16 December 2024 (UTC), every release will have a virus scan repor
 
 Credits:
    - The name is a reference to the [TM-Interface tool by Donadigo](https://donadigo.com/tminterface/) which works the same way, and was the initial inspiration for my project.
-   ~~- Compiled using `pyinstaller` and `UPX`~~
+   - ~~Compiled using `pyinstaller` and `UPX`~~
    - Compiled using native python tools.
    - Thanks a lot to **Milo the great** for beta testing.
 
 # Usage and Distribution Restrictions  
 
 1. **Non-Commercial Use Only**  
-   - This software is provided solely for personal, non-commercial use. Any use of this tool for profit, business purposes, or integration into commercial products or services is strictly prohibited.  
    - This software is provided solely for personal, non-commercial use. Any use of this tool for profit, business purposes, or integration into commercial products or services is strictly prohibited.  
 
 2. **Prohibited Actions**  
