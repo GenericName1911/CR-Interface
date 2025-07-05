@@ -11,6 +11,11 @@ Credits:
    - Compiled using native python tools.
    - Thanks a lot to **Milo the great** for beta testing.
 
+
+# Dependencies
+
+All dependencies can be downloaded using the included setup.py file in Releases.
+
 # Usage and Distribution Restrictions  
 
 1. **Non-Commercial Use Only**  
@@ -25,9 +30,5 @@ Credits:
    - This software is provided "as-is," without any express or implied warranties of any kind, including but not limited to warranties of merchantability or fitness for a particular purpose.  
    - The copyright holder shall not be held liable for any damages, direct or indirect, arising from the use or misuse of this tool. This includes, but is not limited to, data loss, software conflicts, or any other adverse consequences.  
    - Your right to use this software are revoked automatically should you purposely or accidentally violate these terms.
-
-# Dependencies
-
-All dependencies can be downloaded using the included setup.py file in Releases.
 
  **Copyright (C) 2024 generic_name_1911. All rights reserved.**
