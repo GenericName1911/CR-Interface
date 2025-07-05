@@ -5,7 +5,6 @@ This tool is distributed in the form of ~~an executable file~~ [a python-compile
 
 As of Monday, 16 December 2024 (UTC), every subsequent release will have a virus scan report attached to it.
 
-
 Credits:
    - The name is a reference to the [TM-Interface tool by Donadigo](https://donadigo.com/tminterface/) which works the same way, and was the initial inspiration for my project.
    - ~~Compiled using `pyinstaller` and `UPX`~~
@@ -25,6 +24,10 @@ Credits:
 3. **Disclaimer of Liability**  
    - This software is provided "as-is," without any express or implied warranties of any kind, including but not limited to warranties of merchantability or fitness for a particular purpose.  
    - The copyright holder shall not be held liable for any damages, direct or indirect, arising from the use or misuse of this tool. This includes, but is not limited to, data loss, software conflicts, or any other adverse consequences.  
-   - Your right to use this software are revoked automatically should you purposely or accidentally violate these terms. 
-   
+   - Your right to use this software are revoked automatically should you purposely or accidentally violate these terms.
+
+# Dependencies
+
+All dependencies can be downloaded using the included setup.py file in Releases.
+
  **Copyright (C) 2024 generic_name_1911. All rights reserved.**
