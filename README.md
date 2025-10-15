@@ -31,4 +31,4 @@ Credits:
    - The copyright holder shall not be held liable for any damages, direct or indirect, arising from the use or misuse of this tool. This includes, but is not limited to, data loss, software conflicts, or any other adverse consequences.  
    - Your right to use this software are revoked automatically should you purposely or accidentally violate these terms.
 
- **Copyright (C) 2024 generic_name_1911. All rights reserved.**
+ **Copyright (C) 2024 GenericName1911. All rights reserved.**
