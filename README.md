@@ -4,9 +4,9 @@ This tool is a closed-source modding utility for Clash Royale, designed to simul
 This tool is distributed in the form of ~~an executable file~~ [a python-compiled no-console file.](https://docs.python.org/2/using/windows.html#executing-scripts) 
 All dependencies can be downloaded using the included setup.py file in Releases.
 
-Video Demonstration: https://youtu.be/rM3Q7ubljOU
+**Video Demonstration:** https://youtu.be/rM3Q7ubljOU
 
-Examples of what can be made: https://youtu.be/fe7qlCVh9j8?si=bX4mwiOMGUeP2QrM
+**Examples:** https://youtu.be/fe7qlCVh9j8?si=bX4mwiOMGUeP2QrM
 
 As of Monday, 16 December 2024 (UTC), every subsequent release will have a virus scan report attached to it.
 
