@@ -6,7 +6,7 @@ All dependencies can be downloaded using the included setup.py file in Releases.
 
 **Video Demonstration:** https://youtu.be/rM3Q7ubljOU _**[MUST USE PYTHON v3.12.6]**_
 
-**Examples:** https://youtu.be/fe7qlCVh9j8?si=bX4mwiOMGUeP2QrM
+**Examples:** https://youtube.com/playlist?list=PL7EcukfLeJh-oCqbay--nyj1skK-CDwS3
 
 As of Monday, 16 December 2024 (UTC), every subsequent release will have a virus scan report attached to it.
 
